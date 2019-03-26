@@ -4,7 +4,6 @@ public class Candidate {
 	private String name;
 	
 	public Candidate(String name) {
-		super();
 		this.name = name;
 	}
 
