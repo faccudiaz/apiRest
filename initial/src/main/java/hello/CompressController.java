@@ -25,12 +25,12 @@ public class CompressController {
 //		return new ResponseEntity<CompressResult>(compRes, HttpStatus.OK);
 //	}
 	
-	@PostMapping(path = "/compressTest/", consumes = "application/json", produces = "application/json")
-	@ResponseBody
-	public CompressResult doSomeThing(Object input){
-		CompressResult cr = new CompressResult(Test.compress(input.getValor()));
-	    return cr;
-	}
+//	@PostMapping(path = "/compressTest/", consumes = "application/json", produces = "application/json")
+//	@ResponseBody
+//	public CompressResult doSomeThing(Object input){
+//		CompressResult cr = new CompressResult(Test.compress(input.getValor()));
+//	    return cr;
+//	}
 	
 	@PostMapping(path = "/compressTest2/", consumes = "application/json", produces = "application/json")
     public CompressResult createUser(@RequestBody Compress compress) {
