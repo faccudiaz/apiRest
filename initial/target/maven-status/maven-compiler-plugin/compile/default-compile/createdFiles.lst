@@ -1,9 +1,7 @@
-hello/CompressResult.class
-hello/Greeting.class
-hello/CandidateController.class
-hello/Compress.class
-hello/Application.class
-hello/Test.class
-hello/Candidate.class
-hello/GreetingController.class
-hello/CompressController.class
+com\models\Candidate.class
+com\models\CompressResult.class
+com\services\CompressService.class
+com\app\CandidateController.class
+com\models\Compress.class
+com\app\CompressController.class
+com\app\Application.class

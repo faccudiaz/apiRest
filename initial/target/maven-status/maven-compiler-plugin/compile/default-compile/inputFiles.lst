@@ -1,9 +1,7 @@
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/Test.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/CompressController.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/CompressResult.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/Candidate.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/CandidateController.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/Greeting.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/Application.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/GreetingController.java
-/Users/fdiaz_lannes/Documents/Proyectos/springboot/gs-rest-service/initial/src/main/java/hello/Compress.java
+C:\Users\ASUS\Desktop\sysone\apiRest\initial\src\main\java\com\app\CompressController.java
+C:\Users\ASUS\Desktop\sysone\apiRest\initial\src\main\java\com\models\Candidate.java
+C:\Users\ASUS\Desktop\sysone\apiRest\initial\src\main\java\com\models\CompressResult.java
+C:\Users\ASUS\Desktop\sysone\apiRest\initial\src\main\java\com\services\CompressService.java
+C:\Users\ASUS\Desktop\sysone\apiRest\initial\src\main\java\com\app\Application.java
+C:\Users\ASUS\Desktop\sysone\apiRest\initial\src\main\java\com\models\Compress.java
+C:\Users\ASUS\Desktop\sysone\apiRest\initial\src\main\java\com\app\CandidateController.java
